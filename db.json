@@ -5,36 +5,31 @@
       "field2": "Moog Inc.",
       "field3": "CLARINS Ever Matte Broad Spectrum SPF 15 Tint 108",
       "field4": 6.54,
-      "field5": "양호",
-      "field6": "2020-08-02 01:46:37"
+      "field5": "양호"
     }, {
       "field1": "1호기",
       "field2": "Citigroup Inc.",
       "field3": "Armour Thyroid",
       "field4": 0.93,
-      "field5": "양호",
-      "field6": "2020-09-05 08:06:52"
+      "field5": "양호"
     }, {
       "field1": "1호기",
       "field2": "Medical Properties Trust, Inc.",
       "field3": "GREEN OLIVE",
       "field4": -1.49,
-      "field5": "양호",
-      "field6": "2020-06-12 03:45:50"
+      "field5": "양호"
     }, {
       "field1": "6호기",
       "field2": "PowerShares DWA Utilities Momentum Portfolio",
       "field3": "GABAPENTIN",
       "field4": 9.97,
-      "field5": "양호",
-      "field6": "2020-09-02 18:06:19"
+      "field5": "양호"
     }, {
       "field1": "4호기",
       "field2": "Extraction Oil & Gas, Inc.",
       "field3": "Leucovorin Calcium",
       "field4": 7.98,
-      "field5": "오류",
-      "field6": "2020-05-21 22:31:28"
+      "field5": "오류"
     }
   ],
   "firewall": [
@@ -43,71 +38,61 @@
       "field2": "YER",
       "field3": "public",
       "field4": "07073",
-      "field5": "XK Series",
-      "field6": "사용중"
+      "field5": "XK Series"
     }, {
       "field1": "Node1",
       "field2": "RUB",
       "field3": "public",
       "field4": "648",
-      "field5": "Civic",
-      "field6": "사용중"
+      "field5": "Civic"
     }, {
       "field1": "Node2",
       "field2": "EUR",
       "field3": "internal",
       "field4": "098",
-      "field5": "914",
-      "field6": "비활성"
+      "field5": "914"
     }, {
       "field1": "Node1",
       "field2": "CNY",
       "field3": "public",
       "field4": "6",
-      "field5": "Grand Am",
-      "field6": "사용중"
+      "field5": "Grand Am"
     }, {
       "field1": "Node3",
       "field2": "SEK",
       "field3": "-",
       "field4": "1",
-      "field5": "Gallardo",
-      "field6": "비활성"
+      "field5": "Gallardo"
     }, {
       "field1": "Node2",
       "field2": "PLN",
       "field3": "public",
       "field4": "8",
-      "field5": "S-Class",
-      "field6": "사용중"
+      "field5": "S-Class"
     }, {
       "field1": "Node2",
       "field2": "IDR",
       "field3": "public",
       "field4": "10868",
-      "field5": "Cooper",
-      "field6": "비활성"
+      "field5": "Cooper"
     }, {
       "field1": "Node1",
       "field2": "RSD",
       "field3": "public",
       "field4": "99522",
-      "field5": "Jetta",
-      "field6": "사용중"
+      "field5": "Jetta"
     }, {
       "field1": "Node2",
       "field2": "RUB",
       "field3": "public",
       "field4": "6282",
-      "field5": "QX56",
-      "field6": "사용중"
+      "field5": "QX56"
     }, {
       "field1": "Node1",
       "field2": "HRK",
       "field3": "public",
       "field4": "64546",
-      "field5": "Corsica",
-      "field6": "사용중"
+      "field5": "Corsica"
     }
   ],
   "VPN": [
@@ -116,36 +101,31 @@
       "field2": "Node1",
       "field3": null,
       "field4": "정상",
-      "field5": 5.35,
-      "field6": 2.24
+      "field5": 5.35
     }, {
       "field1": 2,
       "field2": "Node3",
       "field3": null,
       "field4": "정상",
-      "field5": 0.13,
-      "field6": 7.54
+      "field5": 0.13
     }, {
       "field1": 3,
       "field2": "Node1",
       "field3": null,
       "field4": "정상",
-      "field5": 2.77,
-      "field6": 2.04
+      "field5": 2.77
     }, {
       "field1": 4,
       "field2": "Node2",
       "field3": null,
       "field4": "정상",
-      "field5": 8.31,
-      "field6": 9.15
+      "field5": 8.31
     }, {
       "field1": 5,
       "field2": "Node2",
       "field3": null,
       "field4": "정상",
-      "field5": 5.85,
-      "field6": 3.52
+      "field5": 5.85
     }
   ],
   "logevent": [
@@ -154,43 +134,37 @@
       "field2": "Node2",
       "field3": "2020-02-02 02:51:34",
       "field4": "Quisque erat eros, viverra eget, congue eget, semper rutrum, nulla. Nunc purus.",
-      "field5": 8.92,
-      "field6": 8.9
+      "field5": 8.92
     }, {
       "field1": "CRIT",
       "field2": "Node3",
       "field3": "2020-06-09 12:13:01",
       "field4": "Donec ut dolor.",
-      "field5": 5.73,
-      "field6": 9.59
+      "field5": 5.73
     }, {
       "field1": "CRIT",
       "field2": "Node3",
       "field3": "2019-11-22 07:42:35",
       "field4": "Nulla ut erat id mauris vulputate elementum.",
-      "field5": 5.44,
-      "field6": 8.57
+      "field5": 5.44
     }, {
       "field1": "WARN",
       "field2": "Node1",
       "field3": "2019-11-13 18:47:08",
       "field4": "Suspendisse ornare consequat lectus.",
-      "field5": 4.36,
-      "field6": 7.46
+      "field5": 4.36
     }, {
       "field1": "WARN",
       "field2": "Node3",
       "field3": "2019-10-14 12:06:58",
       "field4": "Suspendisse potenti.",
-      "field5": 0.2,
-      "field6": 2.98
+      "field5": 0.2
     }, {
       "field1": "CRIT",
       "field2": "Node1",
       "field3": "2020-01-10 05:08:12",
       "field4": "Nullam orci pede, venenatis non, sodales sed, tincidunt eu, felis.",
-      "field5": 6.89,
-      "field6": 5.86
+      "field5": 6.89
     }
   ]
 }
