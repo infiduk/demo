@@ -166,5 +166,26 @@
       "field4": "Nullam orci pede, venenatis non, sodales sed, tincidunt eu, felis.",
       "field5": 6.89
     }
+  ],
+  "device": [
+    {
+      "field1": 1,
+      "field2": "Photobug",
+      "field3": "Proin risus.",
+      "field4": null,
+      "field5": "e6508f4ea2aa8b40b2a6c49d755528653666e8e992adcedc70183d4ad9750430"
+    }, {
+      "field1": 2,
+      "field2": "Voonyx",
+      "field3": "Vivamus metus arcu, adipiscing molestie, hendrerit at, vulputate vitae, nisl.",
+      "field4": null,
+      "field5": "87e8222856fb2d24f0d64f309a9bec01e33a0664f25a489f3718200ab3be82a1"
+    }, {
+      "field1": 3,
+      "field2": "Skipfire",
+      "field3": "Etiam faucibus cursus urna.",
+      "field4": null,
+      "field5": "a95a6df2ad05ef94afc2a1ba3a4dc271934187f24f3748bc0ecd066a31e2c9b3"
+    }
   ]
 }
