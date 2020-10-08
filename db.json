@@ -35,48 +35,6 @@
       "field4": 7.98,
       "field5": "오류",
       "field6": "2020-05-21 22:31:28"
-    }, {
-      "field1": "3호기",
-      "field2": "Malvern Bancorp, Inc.",
-      "field3": "Metronidazole",
-      "field4": 0.06,
-      "field5": "양호",
-      "field6": "2020-01-12 08:57:10"
-    }, {
-      "field1": "5호기",
-      "field2": "BioSpecifics Technologies Corp",
-      "field3": "Spironolactone",
-      "field4": -4.77,
-      "field5": "양호",
-      "field6": "2020-03-02 12:58:58"
-    }, {
-      "field1": "1호기",
-      "field2": "Galectin Therapeutics Inc.",
-      "field3": "Glandulae Suprarenales Lien",
-      "field4": -4.44,
-      "field5": "양호",
-      "field6": "2020-07-11 07:09:08"
-    }, {
-      "field1": "1호기",
-      "field2": "Nuveen Core Equity Alpha Fund",
-      "field3": "Nicotine",
-      "field4": -2.02,
-      "field5": "양호",
-      "field6": "2020-01-18 02:04:55"
-    }, {
-      "field1": "6호기",
-      "field2": "Coca-Cola Company (The)",
-      "field3": "Fremont Cottonwood Pollen",
-      "field4": -3.05,
-      "field5": "양호",
-      "field6": "2020-02-12 03:55:18"
-    }, {
-      "field1": "3호기",
-      "field2": "Western Asset Managed Municipals Fund, Inc.",
-      "field3": "Impact Fix Prism Two Way Cake",
-      "field4": 0.4,
-      "field5": "양호",
-      "field6": "2019-12-19 10:40:21"
     }
   ],
   "firewall": [
@@ -233,60 +191,6 @@
       "field4": "Nullam orci pede, venenatis non, sodales sed, tincidunt eu, felis.",
       "field5": 6.89,
       "field6": 5.86
-    }
-  ],
-  "device": [
-    {
-      "field1": 1,
-      "field2": "Photobug",
-      "field3": "Proin risus.",
-      "field4": null,
-      "field5": "e6508f4ea2aa8b40b2a6c49d755528653666e8e992adcedc70183d4ad9750430",
-      "field6": 5.73
-    }, {
-      "field1": 2,
-      "field2": "Voonyx",
-      "field3": "Vivamus metus arcu, adipiscing molestie, hendrerit at, vulputate vitae, nisl.",
-      "field4": null,
-      "field5": "87e8222856fb2d24f0d64f309a9bec01e33a0664f25a489f3718200ab3be82a1",
-      "field6": 5.01
-    }, {
-      "field1": 3,
-      "field2": "Skipfire",
-      "field3": "Etiam faucibus cursus urna.",
-      "field4": null,
-      "field5": "a95a6df2ad05ef94afc2a1ba3a4dc271934187f24f3748bc0ecd066a31e2c9b3",
-      "field6": 7.74
-    }
-  ],
-  "setting": [
-    {
-      "field1": 1,
-      "field2": "jcrimp0",
-      "field3": "Jacquelynn Crimp",
-      "field4": "Photobug",
-      "field5": "Dujuuma",
-      "field6": true,
-      "field7": true,
-      "field8": "255.207.96.60"
-    }, {
-      "field1": 2,
-      "field2": "sfrostdicke1",
-      "field3": "Solomon Frostdicke",
-      "field4": "Ailane",
-      "field5": "Ribeirópolis",
-      "field6": true,
-      "field7": false,
-      "field8": "186.54.114.164"
-    },{
-      "field1": 3,
-      "field2": "mkeilty2",
-      "field3": "Marybeth Keilty",
-      "field4": "Topiclounge",
-      "field5": "Taizhou",
-      "field6": true,
-      "field7": false,
-      "field8": "193.33.219.8"
     }
   ]
 }
